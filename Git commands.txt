@@ -1,0 +1,12 @@
+### These are the git commands used to upload the files to GitHub
+
+## always make sure to change the wd to the wd where the file will be pushed from
+
+$ cd DDS_Unit3_InClassAssignment
+$ git add .
+$ git commit -m 'Initial file adds 5_22_16'
+$ git push origin master
+
+
+
+
